@@ -81,7 +81,7 @@ section.photo {
 }
 
 section.photo img {
-    width: 240px;
+    width: 44vw;
     height: 180px ;
 }
 
@@ -99,7 +99,7 @@ footer#cont h1 {
 }
 
 footer#cont p {
-    font-size: 2em;
+    font-size: 1.5em;
     padding-top: 10px ;
     padding-bottom: 10px ;
 }
