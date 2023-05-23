@@ -18,9 +18,9 @@ header {
     background-image:  url(../imagens/h1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position-x: -350px;
-    padding-top: 250px;
-    padding-bottom: 350px;
+    background-position-x: -450px;
+    padding-top: 275px;
+    padding-bottom: 375px;
 }
 
 header h1 {
@@ -88,8 +88,8 @@ section.photo img {
 footer#cont {
 background-color: var(--cor4);
 text-align: center;
-padding-top: 300px;
-padding-bottom: 300px;
+padding-top: 325px;
+padding-bottom: 325px;
 }
 
 footer#cont h1 {
