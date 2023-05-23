@@ -18,19 +18,19 @@ header {
     background-image:  url(../imagens/h1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center center;
+    background-position-x: -200px;
     padding-top: 150px;
     padding-bottom: 250px;
 }
 
 header h1 {
-    font-size: 5em;
+    font-size: 3.5em;
     margin-left: 10vw;
     font-family: 'Times New Roman', Times, serif;
 }
 
 header h2 {
-    font-size: 2em;
+    font-size: 1.5em;
     margin-left: 10vw;
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
@@ -38,8 +38,9 @@ header h2 {
 
 header a {
     background-color: var(--cor4);
-    margin-left: 18vw;
-    padding: 7.5px;
+    font-size: 0.8em;
+    margin-left: 15vw;
+    padding: 5px;
     border: 1px solid black;
     border-radius: 15px;
     color: black;
@@ -92,7 +93,7 @@ padding-bottom: 220px;
 }
 
 footer#cont h1 {
-    font-size: 5em;
+    font-size: 4em;
     padding-top: 10px ;
     padding-bottom: 10px ;
 }
